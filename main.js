@@ -1,2 +1,2 @@
-var mystr = "hello";
+var mystr = "hi";
 var num = 50;
